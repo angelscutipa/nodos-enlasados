@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1464745399 source:/home/angel/Documentos/programas/nodosenlasados/main.cpp
+	<iostream>
+	"sell.h"
+	"insertion.h"
+	"burbuja.h"
+	"selection.h"
+	"lista.h"
+
+1464738831 source:/home/angel/Documentos/programas/nodosenlasados/src/burbuja.cpp
+	"burbuja.h"
+
+1464738831 /home/angel/Documentos/programas/nodosenlasados/include/burbuja.h
+	<sell.h>
+
+1464738831 /home/angel/Documentos/programas/nodosenlasados/include/sell.h
+
+1464738938 source:/home/angel/Documentos/programas/nodosenlasados/src/insertion.cpp
+	"insertion.h"
+
+1464738858 /home/angel/Documentos/programas/nodosenlasados/include/insertion.h
+	<sell.h>
+
+1464745864 source:/home/angel/Documentos/programas/nodosenlasados/src/lista.cpp
+	"lista.h"
+	"nodo.h"
+	"sell.h"
+	<iostream>
+
+1464745576 /home/angel/Documentos/programas/nodosenlasados/include/lista.h
+	"nodo.h"
+	"sell.h"
+
+1464741042 /home/angel/Documentos/programas/nodosenlasados/include/nodo.h
+	"sell.h"
+
+1464745864 source:/home/angel/Documentos/programas/nodosenlasados/src/nodo.cpp
+	"nodo.h"
+	<iostream>
+	"sell.h"
+
+1464738995 source:/home/angel/Documentos/programas/nodosenlasados/src/sell.cpp
+	"sell.h"
+	<iostream>
+
+1464738945 source:/home/angel/Documentos/programas/nodosenlasados/src/selection.cpp
+	"selection.h"
+	<iostream>
+
+1464738831 /home/angel/Documentos/programas/nodosenlasados/include/selection.h
+	<sell.h>
+
